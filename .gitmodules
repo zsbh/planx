@@ -1,6 +1,3 @@
-[submodule "sources/react"]
-	path = sources/react
-	url = https://github.com/facebook/react.git
-[submodule "sources/vuejs/core"]
-	path = sources/vuejs/core
+[submodule "vue/vuejs/core"]
+	path = vue/vuejs/core
 	url = https://github.com/vuejs/core.git
